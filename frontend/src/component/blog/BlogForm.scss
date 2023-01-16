@@ -1,0 +1,19 @@
+.form{
+    display: flex;
+    justify-content: center;
+    
+
+    .post{
+        display: flex;
+        margin: 10px 10px;
+        input{
+            width: 100vh;
+            font-size: 1.5em;
+        }
+
+        button{
+            background:black ;
+            color: white;
+        }
+    }
+}
